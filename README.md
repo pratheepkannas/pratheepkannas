@@ -1,15 +1,23 @@
-<h1 align="center">Hi there, I'm Pratheep Kanna S 👋</h1>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1488CC,100:2B32B2&height=220&section=header&text=Pratheep%20Kanna%20S&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Data%20Scientist%20%7C%20App%20Developer%20%7C%20AI%2FML%20Enthusiast&descAlignY=52&descSize=18" width="100%"/>
 
-<h3 align="center">Aspiring Data Scientist | Full-Stack & App Developer | AI/ML Enthusiast</h3>
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2B32B2&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub+profile!;M.Sc.+Data+Science+Graduate;Building+Alumni+Connect+%F0%9F%93%B1;AI%2FML+%7C+Android+%7C+Full-Stack+Dev;Best+Digital+Innovation+Award+Winner+%F0%9F%8F%86" alt="Typing SVG" />
+  </a>
+</p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/pratheep-kanna-s/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin">
   </a>
   <a href="mailto:pratheepkannas@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact%20Me-red?style=flat&logo=gmail">
+    <img src="https://img.shields.io/badge/Email-Contact%20Me-red?style=for-the-badge&logo=gmail">
   </a>
-  <img src="https://img.shields.io/badge/Phone-%2B91%206380221663-green?style=flat&logo=whatsapp">
+  <img src="https://img.shields.io/badge/Phone-%2B91%206380221663-green?style=for-the-badge&logo=whatsapp">
+</p>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500">
 </p>
 
 ---
@@ -24,6 +32,8 @@
 - 📫 Reach me at **pratheepkannas@gmail.com**
 
 ---
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1488CC,100:2B32B2&height=3&width=100%"/>
 
 ### 🛠️ Tech Stack
 
@@ -78,6 +88,8 @@
 
 ---
 
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1488CC,100:2B32B2&height=3&width=100%"/>
+
 ### 🚀 Featured Projects
 
 #### 🔗 [Alumni Connect](https://github.com/)
@@ -91,6 +103,8 @@ A mobile application that predicts early-stage sepsis risk using machine learnin
 
 ---
 
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1488CC,100:2B32B2&height=3&width=100%"/>
+
 ### 🏆 Achievements & Certifications
 
 - 🥇 1st Prize — Paper Presentation on *"Agri-Waste to Profit"* (Published)
@@ -103,6 +117,8 @@ A mobile application that predicts early-stage sepsis risk using machine learnin
 - 📜 Maiyyam
 
 ---
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1488CC,100:2B32B2&height=3&width=100%"/>
 
 ### 📊 GitHub Stats
 
@@ -118,7 +134,13 @@ A mobile application that predicts early-stage sepsis risk using machine learnin
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=flat&color=blue" alt="profile views">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=redical&hide_border=true" width="100%">
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=for-the-badge&color=blueviolet" alt="profile views">
 </p>
 
 <p align="center"><i>💬 Let's connect and build something impactful with data!</i></p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2B32B2,100:1488CC&height=120&section=footer" width="100%"/>
